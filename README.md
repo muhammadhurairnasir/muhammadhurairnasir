@@ -18,7 +18,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,100:D97757&height=45&section=header" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,100:D97757&height=100&section=header" alt="divider"/>
 
 ## 📖 Table of Contents
 
@@ -33,7 +33,7 @@
 - [Goals](#-goals)
 - [Contact](#-contact)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,100:D97757&height=45&section=header" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,100:D97757&height=100&section=header" alt="divider"/>
 
 ## 🚀 About Me
 
@@ -55,7 +55,7 @@ Alongside full-stack development, I've built systems that lean into **AI and NLP
 - ⚙️ Set up CI/CD pipelines with **GitHub Actions** and deploy to platforms like **Railway**
 - 🤝 Collaborate in Agile teams using Git feature branching and structured code review
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,100:D97757&height=45&section=header" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,100:D97757&height=100&section=header" alt="divider"/>
 
 ## 🛠️ Tech Stack
 
@@ -114,7 +114,7 @@ Alongside full-stack development, I've built systems that lean into **AI and NLP
 ![REST APIs](https://img.shields.io/badge/RESTful_APIs-4B4B4B?style=for-the-badge)
 ![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-4B4B4B?style=for-the-badge)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,100:D97757&height=45&section=header" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,100:D97757&height=100&section=header" alt="divider"/>
 
 ## 🌟 Featured Projects
 
@@ -186,7 +186,7 @@ A cross-platform mobile app integrating a custom-trained computer vision model f
 
 **Skills demonstrated:** CV model integration, mobile-to-backend API design, technical communication under scrutiny
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,100:D97757&height=45&section=header" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,100:D97757&height=100&section=header" alt="divider"/>
 
 ## 🏭 Production Experience
 
@@ -214,7 +214,7 @@ A cross-platform mobile app integrating a custom-trained computer vision model f
 ✔ Integrated a custom-trained computer vision model into a cross-platform mobile app
 ✔ Collaborated in Agile teams using Git feature branching and structured code review
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,100:D97757&height=45&section=header" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,100:D97757&height=100&section=header" alt="divider"/>
 
 ## 🧭 Development Philosophy
 
@@ -239,7 +239,7 @@ I also treat unfamiliar technology as a solvable problem, not a blocker: I picke
 **Open Source**
 - Maintain personal projects with structured commits, feature branching, and CI/CD — and use that as a foundation to contribute more broadly over time.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,100:D97757&height=45&section=header" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,100:D97757&height=100&section=header" alt="divider"/>
 
 ## 📫 Contact
 
