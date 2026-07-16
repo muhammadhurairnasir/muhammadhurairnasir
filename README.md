@@ -8,7 +8,7 @@
 
 [![Location](https://img.shields.io/badge/📍_Location-Lahore,_Pakistan-2C2C2C?style=for-the-badge)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-thelumina.shop-D97757?style=for-the-badge&logo=vercel&logoColor=white)](https://thelumina.shop)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-hurair-nasir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hurair-nasir/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadhurairnasir@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadhurairnasir)
 
@@ -26,7 +26,6 @@
 - [Featured Projects](#-featured-projects)
 - [Production Experience](#-production-experience)
 - [Engineering Highlights](#-engineering-highlights)
-- [GitHub Analytics](#-github-analytics)
 - [Development Philosophy](#-development-philosophy)
 - [Currently Learning](#-currently-learning)
 - [Goals](#-goals)
@@ -215,23 +214,6 @@ A cross-platform mobile app integrating a custom-trained computer vision model f
 
 <br>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadhurairnasir&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhurairnasir&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=muhammadhurairnasir&theme=radical&hide_border=true" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhurairnasir&theme=redical&hide_border=true" alt="Activity Graph" width="90%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadhurairnasir&theme=radical&no-frame=true&row=1&column=6" alt="Trophies"/>
-
-</div>
-
-<br>
-
 ## 🧭 Development Philosophy
 
 I take full accountability for what I ship. On Lumina, that has meant going past "it works on my machine" and actually resolving real production issues — payment webhook failures, chatbot intent-matching edge cases — through critical analysis rather than guesswork. I lean on OOP and clean architecture to keep systems maintainable as they grow, whether that's a normalized SQL Server schema for a restaurant system or a Flask dashboard behind an NLP pipeline.
@@ -262,7 +244,7 @@ I also treat unfamiliar technology as a solvable problem, not a blocker: I picke
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-thelumina.shop-D97757?style=for-the-badge&logo=vercel&logoColor=white)](https://thelumina.shop)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadhurair-nasir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hurair-nasir/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadhurairnasir@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadhurairnasir)
 
